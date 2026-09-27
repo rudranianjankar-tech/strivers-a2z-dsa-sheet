@@ -15,14 +15,14 @@ public class Patterns {
         pattern11(5);
         pattern12(5);
         pattern13(5);
-        pattern14(5);
-        pattern15(5);
-        pattern16(5);
-        pattern17(5);
-        pattern18(5);
-        pattern19(5);
-        pattern20(5);
-        pattern21(5);
+        pattern14(4);
+        pattern15(4);
+        pattern16(4);
+        pattern17(4);
+        pattern18(4);
+        pattern19(4);
+        pattern20(4);
+        pattern21(4);
         pattern22(5);
     }
 
