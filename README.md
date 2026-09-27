@@ -4,5 +4,5 @@ A collection of my **Java solutions to Striver's A2Z DSA Sheet**, organized topi
 
 Each solution focuses on a clear approach with attention to **time and space complexity**.
 
-**Language:** Java
+**Language:** Java \n
 **Reference:** Striver's A2Z DSA Sheet
